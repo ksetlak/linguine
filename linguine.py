@@ -1,16 +1,8 @@
 import os
 import json
-import locale
 import argparse
 import constants
 import mimetypes
-
-locale_list = [f(loc) for loc in locale.windows_locale.items() for f in (
-    lambda x: x[1],
-    lambda x: x[1].split("_")[0]
-)]
-locale_list = list(set(locale_list))
-locale_list.sort()
 
 
 class dict(dict):
@@ -24,7 +16,7 @@ class dict(dict):
         return dict(consumed_dict)
 
     def add_name(self, dict_file):
-        for locale_name in locale_list:
+        for locale_name in constants.locale_list:
             dict_file_name = os.path.basename(dict_file.name)
             stripped_dict_file_name, _ = os.path.splitext(dict_file_name)
             if locale_name == stripped_dict_file_name:
