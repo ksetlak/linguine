@@ -1,0 +1,1435 @@
+{
+    "common": {
+        "registered": {
+            "en": "Registered"
+        },
+        "registeredBy": {
+            "en": "Registered by"
+        },
+        "commentRequired": {
+            "en": "A comment is required",
+            "pl": "Wymagany jest komentarz"
+        },
+        "irreversible": {
+            "en": "This is an irreversible action!",
+            "pl": "To nieodwracalna czynno\u0139\u203a\u00c4\u2021!"
+        },
+        "getData": {
+            "en": "Get data: ",
+            "pl": "Pobierz dane: "
+        },
+        "confirmProceed": {
+            "en": "Are you sure you want to proceed?",
+            "pl": "Czy na pewno chcesz kontynuowa\u00c4\u2021?"
+        },
+        "registered_m": {
+            "pl": "Utworzony"
+        },
+        "registered_f": {
+            "pl": "Utworzona"
+        },
+        "registered_n": {
+            "pl": "Utworzone"
+        },
+        "registeredBy_m": {
+            "pl": "Utworzony przez"
+        },
+        "registeredBy_f": {
+            "pl": "Utworzona przez"
+        },
+        "registeredBy_n": {
+            "pl": "Utworzone przez"
+        }
+    },
+    "batches": {
+        "batches": {
+            "en": "Batches",
+            "pl": "Partie"
+        },
+        "batchNo": {
+            "en": "Batch number",
+            "pl": "Numer partii"
+        },
+        "product": {
+            "en": "Product",
+            "pl": "Produkt"
+        },
+        "editBatch": {
+            "en": "Edit batch",
+            "pl": "Edytuj parti\u00c4\u2122"
+        },
+        "addBatchManually": {
+            "en": "Add batch manually",
+            "pl": "Dodaj parti\u00c4\u2122 r\u00c4\u2122cznie"
+        },
+        "addBatch": {
+            "en": "Add new batch",
+            "pl": "Dodaj now\u00c4\u2026 parti\u00c4\u2122"
+        },
+        "relatedProduct": {
+            "en": "Related product",
+            "pl": "Powi\u00c4\u2026zany produkt"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this batch?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 t\u00c4\u2122 parti\u00c4\u2122?"
+        },
+        "confirmDeleteDescr": {
+            "en": "This is an irreversible action and will disconnect all existing samples from this batch.",
+            "pl": "Jest to nieodwracalna akcja, kt\u0102\u0142ra usunie skojarzenia wszystkich istniej\u00c4\u2026cych pr\u0102\u0142bek z t\u00c4\u2026 parti\u00c4\u2026."
+        },
+        "get": {
+            "en": "Get batches",
+            "pl": "Pobierz partie"
+        },
+        "create": {
+            "en": "Create batch",
+            "pl": "Utw\u0102\u0142rz parti\u00c4\u2122"
+        },
+        "edit": {
+            "en": "Edit batch",
+            "pl": "Edytuj parti\u00c4\u2122"
+        },
+        "delete": {
+            "en": "Delete batch",
+            "pl": "Usu\u0139\u201e parti\u00c4\u2122"
+        },
+        "createdSuccess": {
+            "en": "Successfully created batch",
+            "pl": "Pomy\u0139\u203alnie utworzono parti\u00c4\u2122"
+        },
+        "modifiedSuccess": {
+            "en": "Successfully modified batch",
+            "pl": "Pomy\u0139\u203alnie zmodyfikowano parti\u00c4\u2122"
+        },
+        "deletedSuccess": {
+            "en": "Successfully deleted batch",
+            "pl": "Pomy\u0139\u203alnie usuni\u00c4\u2122to parti\u00c4\u2122"
+        }
+    },
+    "equipment": {
+        "equipment": {
+            "en": "Equipment",
+            "pl": "Urz\u00c4\u2026dzenia"
+        },
+        "equipmentSing": {
+            "en": "Equipment",
+            "pl": "Urz\u00c4\u2026dzenie"
+        },
+        "allEquipment": {
+            "en": "All equipment",
+            "pl": "Wszystkie urz\u00c4\u2026dzenia"
+        },
+        "vendor": {
+            "en": "Vendor",
+            "pl": "Dostawca"
+        },
+        "newEquipment": {
+            "en": "New equipment",
+            "pl": "Nowe urz\u00c4\u2026dzenie"
+        },
+        "newEquipmentToLab": {
+            "en": "New equipment to {{labName}}",
+            "pl": "{{labName}} - nowe urz\u00c4\u2026dzenie"
+        },
+        "editEquipment": {
+            "en": "Edit equipment",
+            "pl": "Edytuj urz\u00c4\u2026dzenie"
+        },
+        "selectLab": {
+            "en": "Select a lab",
+            "pl": "Wybierz laboratorium"
+        },
+        "moveLabs": {
+            "en": "Move between labs",
+            "pl": "Zmie\u0139\u201e laboratorium"
+        },
+        "get": {
+            "en": "Get equipment",
+            "pl": "Pobierz urz\u00c4\u2026dzenia"
+        }
+    },
+    "labs": {
+        "lab": {
+            "en": "Lab",
+            "pl": "Laboratorium"
+        },
+        "noLabs": {
+            "en": "You have no labs",
+            "pl": "Nie masz \u0139\u013dadnych laboratori\u0102\u0142w"
+        },
+        "createNow": {
+            "en": "Create one now!",
+            "pl": "Stw\u0102\u0142rz je teraz!"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this lab?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 to laboratorium?"
+        },
+        "confirmDeleteDescr": {
+            "en": "The lab will be permanently deleted along with its planned timetable activities.",
+            "pl": "To laboratorium, wraz z przypisanymi do niego zaplanowanymi czynno\u0139\u203aciami, zostanie trwale usuni\u00c4\u2122te."
+        },
+        "editLab": {
+            "en": "Edit lab ",
+            "pl": "Edytuj laboratorium "
+        },
+        "addLab": {
+            "en": "Add new lab",
+            "pl": "Dodaj nowe laboratorium"
+        },
+        "labName": {
+            "en": "Lab name",
+            "pl": "Nazwa laboratorium"
+        },
+        "staff": {
+            "en": "Staff",
+            "pl": "Personel"
+        },
+        "availability": {
+            "en": "Availability",
+            "pl": "Dost\u00c4\u2122pno\u0139\u203a\u00c4\u2021"
+        },
+        "staffMembers": {
+            "en": "{{count}} staff member"
+        },
+        "staffMembers_plural": {
+            "en": "{{count}} staff members"
+        },
+        "labOwner": {
+            "en": "Lab owner: ",
+            "pl": "Kierownik laboratorium: "
+        },
+        "labNameStaff": {
+            "en": "{{name}} staff",
+            "pl": "{{name}} - personel"
+        },
+        "get": {
+            "en": "Get labs",
+            "pl": "Pobierz laboratoria"
+        },
+        "create": {
+            "en": "Create lab",
+            "pl": "Utw\u0102\u0142rz laboratorium"
+        },
+        "edit": {
+            "en": "Edit lab",
+            "pl": "Edytuj laboratorium"
+        },
+        "delete": {
+            "en": "Delete lab",
+            "pl": "Usu\u0139\u201e laboratorium"
+        },
+        "submitStaff": {
+            "en": "Save staff changes",
+            "pl": "Zapisz zmiany w personelu"
+        },
+        "createdSuccess": {
+            "en": "Successfully created lab",
+            "pl": "Z powodzeniem utworzono laboratorium"
+        },
+        "modifiedSuccess": {
+            "en": "Successfully modified lab",
+            "pl": "Z powodzeniem zmodyfikowano laboratorium"
+        },
+        "deletedSuccess": {
+            "en": "Successfully deleted lab",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to laboratorium"
+        },
+        "staffMembers_0": {
+            "pl": "{{count}} pracownik laboratorium"
+        },
+        "staffMembers_1": {
+            "pl": "{{count}} pracownik\u0102\u0142w laboratorium"
+        },
+        "staffMembers_2": {
+            "pl": "{{count}} pracownik\u0102\u0142w laboratorium"
+        }
+    },
+    "notifications": {
+        "openSample": {
+            "en": "open sample",
+            "pl": "poka\u0139\u013d pr\u0102\u0142bk\u00c4\u2122"
+        }
+    },
+    "sample": {
+        "samples": {
+            "en": "Samples",
+            "pl": "Pr\u0102\u0142bki"
+        },
+        "sampleDetails": {
+            "en": "Sample details",
+            "pl": "Szczeg\u0102\u0142\u0139\u201ay pr\u0102\u0142bki"
+        },
+        "addSample": {
+            "en": "Add new sample",
+            "pl": "Dodaj now\u00c4\u2026 pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this sample?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 t\u00c4\u2122 pr\u0102\u0142bk\u00c4\u2122?"
+        },
+        "confirmDeleteDescr": {
+            "en": "The sample will be permanently deleted.",
+            "pl": "Ta pr\u0102\u0142bka zostanie trwale usuni\u00c4\u2122ta. "
+        },
+        "resetChanges": {
+            "en": "reset changes",
+            "pl": "cofnij wszystkie zmiany"
+        },
+        "name": {
+            "en": "Sample name",
+            "pl": "Nazwa pr\u0102\u0142bki"
+        },
+        "relatedBatch": {
+            "en": "Related batch",
+            "pl": "Powi\u00c4\u2026zana partia"
+        },
+        "location": {
+            "en": "Sampling location",
+            "pl": "Miejsce pobrania"
+        },
+        "minSize": {
+            "en": "Minimal sample size",
+            "pl": "Minimalny rozmiar pr\u0102\u0142bki"
+        },
+        "estimatedCollectionTime": {
+            "en": "Estimated collection time",
+            "pl": "Szacowany czas pobrania"
+        },
+        "estimatedDeliveryTime": {
+            "en": "Estimated delivery time",
+            "pl": "Szacowany czas dostarczenia"
+        },
+        "cancelSample": {
+            "en": "Cancel sample",
+            "pl": "Odwo\u0139\u201aaj badanie pr\u0102\u0142bki"
+        },
+        "confirmCancel": {
+            "en": "Are you sure you want to cancel this sample and all tests assigned to it?",
+            "pl": "Czy na pewno chcesz odwo\u0139\u201aa\u00c4\u2021 badanie tej pr\u0102\u0142bki, usuwaj\u00c4\u2026c wszystkie sk\u0139\u201aadaj\u00c4\u2026ce si\u00c4\u2122 na nie testy?"
+        },
+        "tooltipUnderTest": {
+            "en": "One of the tests assigned to this sample is currently in progress.",
+            "pl": "Co najmniej jeden z test\u0102\u0142w wykonywanych na tej pr\u0102\u0142bce jest aktualnie w toku."
+        },
+        "tooltipPendingApproval": {
+            "en": "Not all tests assigned to this sample have been approved yet.",
+            "pl": "Nie wszystkie badania, jakie maj\u00c4\u2026 by\u00c4\u2021 wykonane na tej pr\u0102\u0142bce, zosta\u0139\u201ay zatwierdzone."
+        },
+        "tooltipReceive": {
+            "en": "It's too early for this sample to arrive",
+            "pl": "Ta probka nie powinna by\u00c4\u2021 jeszcze dostarczona"
+        },
+        "receive": {
+            "en": "receive sample",
+            "pl": "Odbierz pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "confirmBad": {
+            "en": "Are you sure you want to declare this sample as bad quality?",
+            "pl": "Czy na pewno chcesz oznaczy\u00c4\u2021 t\u00c4\u2122 pr\u0102\u0142bk\u00c4\u2122 jako pr\u0102\u0142bk\u00c4\u2122 o z\u0139\u201aej jako\u0139\u203aci?"
+        },
+        "confirmBadDescr": {
+            "en": "This will cancel all assigned tests and is an irreversible action.",
+            "pl": "To odwo\u0139\u201aa wszystkie zaplanowane dla tej pr\u0102\u0142bki testy i nie da si\u00c4\u2122 tego cofn\u00c4\u2026\u00c4\u2021."
+        },
+        "sampleBad": {
+            "en": "sample bad",
+            "pl": "pr\u0102\u0142bka o z\u0139\u201aej jako\u0139\u203aci"
+        },
+        "confirmAcceptDescr": {
+            "en": "You will not be able to modify sample details any more.",
+            "pl": "Nie b\u00c4\u2122dzie ju\u0139\u013d mo\u0139\u013dliwa edycja szczeg\u0102\u0142\u0139\u201a\u0102\u0142w pr\u0102\u0142bki."
+        },
+        "accepted": {
+            "en": "sample accepted",
+            "pl": "pr\u0102\u0142bka przyj\u00c4\u2122ta"
+        },
+        "close": {
+            "en": "close sample",
+            "pl": "zamknij pr\u0102\u0142b\u00c4\u2122"
+        },
+        "confirmCancelRemaining": {
+            "en": "All tests which have not started yet will be cancelled. All completed tests pending approval will be approved.",
+            "pl": "Wszystkie nierozpocz\u00c4\u2122te testy zostan\u00c4\u2026 odwo\u0139\u201aane. Wszystkie zako\u0139\u201eczone testy oczekuj\u00c4\u2026ce na zatwierdzenie zostan\u00c4\u2026 automatycznie zatwierdzone."
+        },
+        "cancelRemaining": {
+            "en": "cancel remaining tests",
+            "pl": "odwo\u0139\u201aaj pozosta\u0139\u201ae testy"
+        },
+        "status": {
+            "en": "Sample status: {{status}}",
+            "pl": "Status pr\u0102\u0142bki: {{status}}"
+        },
+        "assigned": {
+            "en": "Assigned",
+            "pl": "Zlecona"
+        },
+        "delivered": {
+            "en": "Delivered",
+            "pl": "Dostarczona"
+        },
+        "bad": {
+            "en": "Bad",
+            "pl": "Z\u0139\u201aej jako\u0139\u203aci"
+        },
+        "pendingTests": {
+            "en": "Pending tests",
+            "pl": "Oczekuje na testy"
+        },
+        "underTest": {
+            "en": "Under test",
+            "pl": "W trakcie testu"
+        },
+        "pendingApproval": {
+            "en": "Pending approval",
+            "pl": "Oczekuje na zatwierdzenie"
+        },
+        "approved": {
+            "en": "Approved",
+            "pl": "Zatwierdzona"
+        },
+        "archived": {
+            "en": "Archived",
+            "pl": "Zarchiwizowana"
+        },
+        "cancelled": {
+            "en": "Cancelled",
+            "pl": "Odwo\u0139\u201aana"
+        },
+        "assignedBy": {
+            "en": "Assigned by",
+            "pl": "Zlecona przez"
+        },
+        "autoSchedule": {
+            "en": "Auto Schedule",
+            "pl": "Automatyczne Harmonogramowanie"
+        },
+        "toBeCollectedBy": {
+            "en": "To be collected by",
+            "pl": "Pracownik pobieraj\u00c4\u2026cy: "
+        },
+        "collectedBy": {
+            "en": "Collected by",
+            "pl": "Pobrane przez"
+        },
+        "receivedBy": {
+            "en": "Received by",
+            "pl": "Przyj\u00c4\u2122te przez"
+        },
+        "assignedTests": {
+            "en": "Assigned tests",
+            "pl": "Zlecone testy"
+        },
+        "deleteFromPlan": {
+            "en": "delete from plan",
+            "pl": "usu\u0139\u201e z planu"
+        },
+        "confirmDeleteFromPlan": {
+            "en": "Are you sure you want to delete this sample from plan?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 t\u00c4\u2122 pr\u0102\u0142bk\u00c4\u2122 z planu?"
+        },
+        "get": {
+            "en": "Get samples: ",
+            "pl": "Pobierz pr\u0102\u0142bki: "
+        },
+        "create": {
+            "en": "Create sample",
+            "pl": "Utw\u0102\u0142rz pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "update": {
+            "en": "Update sample",
+            "pl": "Zaktualizuj pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "delete": {
+            "en": "Delete sample",
+            "pl": "Usu\u0139\u201e pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "changeStatus": {
+            "en": "Change sample status",
+            "pl": "Zmie\u0139\u201e status pr\u0102\u0142bki"
+        },
+        "createTests": {
+            "en": "Create tests assigned to sample",
+            "pl": "Utw\u0102\u0142rz testy przypisane do pr\u0102\u0142bki"
+        },
+        "createdSuccess": {
+            "en": "Successfully created sample",
+            "pl": "Z powodzeniem utworzono pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "updatedSuccess": {
+            "en": "Successfully updated sample",
+            "pl": "Z powodzeniem zaktualizowano pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "deletedSuccess": {
+            "en": "Successfully deleted sample",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to pr\u0102\u0142bk\u00c4\u2122"
+        },
+        "enterTest": {
+            "en": "Enter at least one test",
+            "pl": "Wybierz co najmniej jeden test"
+        },
+        "selectComponent": {
+            "en": "Select at least one",
+            "pl": "Wybierz co najmniej jeden"
+        }
+    },
+    "sampleTypes": {
+        "sampleTypes": {
+            "en": "Sample types",
+            "pl": "Rodzaje pr\u0102\u0142bek"
+        },
+        "sampleType": {
+            "en": "Sample type",
+            "pl": "Rodzaj pr\u0102\u0142bki"
+        },
+        "addType": {
+            "en": "Add new sample type",
+            "pl": "Dodaj nowy typ pr\u0102\u0142bki"
+        },
+        "notSpecified": {
+            "en": "Not specified",
+            "pl": "Nieokre\u0139\u203alony"
+        },
+        "typeDetails": {
+            "en": "Sample type details",
+            "pl": "Szczeg\u0102\u0142\u0139\u201ay typu pr\u0102\u0142bki"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this sample type?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 ten typ pr\u0102\u0142bki?"
+        },
+        "confirmDeleteDescr": {
+            "en": "The sample type will be permanently deleted. Existing samples of this type will remain in the system, but they will not be associated with this type anymore.",
+            "pl": "Ten typ pr\u0102\u0142bki zostanie trwale usuni\u00c4\u2122ty. Istniej\u00c4\u2026ce pr\u0102\u0142bki tego typu nie zostan\u00c4\u2026 usuni\u00c4\u2122te z systemu, ale nie b\u00c4\u2122d\u00c4\u2026 ju\u0139\u013d opisane tym typem."
+        },
+        "defaultTests": {
+            "en": "Default tests",
+            "pl": "Domy\u0139\u203alne testy"
+        },
+        "get": {
+            "en": "Get sample types",
+            "pl": "Pobierz typy pr\u0102\u0142bek"
+        },
+        "create": {
+            "en": "Create sample type",
+            "pl": "Utw\u0102\u0142rz typ pr\u0102\u0142bki"
+        },
+        "update": {
+            "en": "Update sample type",
+            "pl": "Zaktualizuj typ pr\u0102\u0142bki"
+        },
+        "delete": {
+            "en": "Delete sample type",
+            "pl": "Usu\u0139\u201e typ pr\u0102\u0142bki"
+        },
+        "createdSuccess": {
+            "en": "Successfully created sample type",
+            "pl": "Z powodzeniem utworzono typ pr\u0102\u0142bki"
+        },
+        "updatedSuccess": {
+            "en": "Successfully updated sample type",
+            "pl": "Z powodzeniem zaktualizowano typ pr\u0102\u0142bki"
+        },
+        "deletedSuccess": {
+            "en": "Successfully deleted sample type",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to typ pr\u0102\u0142bki"
+        },
+        "chooseTest": {
+            "en": "Choose a test",
+            "pl": "Wybierz test"
+        }
+    },
+    "schedule": {
+        "currentPlan": {
+            "en": "current plan",
+            "pl": "bie\u0139\u013d\u00c4\u2026cy plan"
+        },
+        "editRules": {
+            "en": "edit rules",
+            "pl": "edytuj regu\u0139\u201ay"
+        },
+        "newAdHoc": {
+            "en": "Create Ad Hoc sample",
+            "pl": "Utw\u0102\u0142rz zlecenie ad hoc"
+        },
+        "planRules": {
+            "en": "Sampling plan rules",
+            "pl": "Regu\u0139\u201ay planu pr\u0102\u0142bek"
+        },
+        "appliesFrom": {
+            "en": "Applies from",
+            "pl": "Obowi\u00c4\u2026zuje od"
+        },
+        "appliesTo": {
+            "en": "Applies to",
+            "pl": "Obowi\u00c4\u2026zuje do"
+        },
+        "active": {
+            "en": "Active",
+            "pl": "Aktywna"
+        },
+        "ruleDetails": {
+            "en": "Rule details",
+            "pl": "Szczeg\u0102\u0142\u0139\u201ay regu\u0139\u201ay"
+        },
+        "addRule": {
+            "en": "Add new rule",
+            "pl": "Dodaj now\u00c4\u2026 regu\u0139\u201a\u00c4\u2122"
+        },
+        "rule": {
+            "en": "Rule",
+            "pl": "Regu\u0139\u201aa"
+        },
+        "confirmDeactivate": {
+            "en": "Are you sure you want to deactivate this rule?",
+            "pl": "Czy na pewno chcesz wy\u0139\u201a\u00c4\u2026czy\u00c4\u2021 t\u00c4\u2122 regu\u0139\u201a\u00c4\u2122?"
+        },
+        "confirmDeactivateDescr": {
+            "en": "This will remove all the future planned events related to this rule",
+            "pl": "W wyniku tego dzia\u0139\u201aania usuni\u00c4\u2122te zostan\u00c4\u2026 wszystkie przysz\u0139\u201ae wydarzenia wynikaj\u00c4\u2026ce z tej regu\u0139\u201ay."
+        },
+        "deactivate": {
+            "en": "deactivate",
+            "pl": "wy\u0139\u201a\u00c4\u2026cz"
+        },
+        "activate": {
+            "en": "activate",
+            "pl": "w\u0139\u201a\u00c4\u2026cz"
+        },
+        "cannotDelete": {
+            "en": "This rule cannot be deleted because it's already started",
+            "pl": "Ta regu\u0139\u201aa nie mo\u0139\u013de zosta\u00c4\u2021 usuni\u00c4\u2122ta, poniewa\u0139\u013d ju\u0139\u013d zosta\u0139\u201aa rozpocz\u00c4\u2122ta"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this rule?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 t\u00c4\u2122 regu\u0139\u201a\u00c4\u2122?"
+        },
+        "confirmDeleteDescr": {
+            "en": "All the related planned events will be permanently removed.",
+            "pl": "Wszystkie powi\u00c4\u2026zane zaplanowane wydarzenia zostan\u00c4\u2026 nieodwracalnie usuni\u00c4\u2122te."
+        },
+        "frequency": {
+            "en": "Sampling frequency",
+            "pl": "Cz\u00c4\u2122stotliwo\u0139\u203a\u00c4\u2021 pobierania pr\u0102\u0142bek"
+        },
+        "frequencyHelp": {
+            "en": "enter time period, e.g. 3mon 4d 10h",
+            "pl": "Wprowad\u0139\u015f czas, np. 3mon 4d 10h"
+        },
+        "updateElement": {
+            "en": "Update sampling plan element",
+            "pl": "Zaktualizuj element planu pobierania pr\u0102\u0142bek"
+        },
+        "addElement": {
+            "en": "Add sampling plan element",
+            "pl": "Dodaj element planu pobierania pr\u0102\u0142bek"
+        },
+        "deleteElement": {
+            "en": "Delete sampling plan element",
+            "pl": "Usu\u0139\u201e element planu pobierania pr\u0102\u0142bek"
+        },
+        "deleteElementSuccess": {
+            "en": "Successfully deleted sampling plan element",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to element planu pobierania pr\u0102\u0142bek"
+        },
+        "get": {
+            "en": "Get sampling plan: ",
+            "pl": "Pobierz plan pobierania pr\u0102\u0142bek: "
+        },
+        "createRule": {
+            "en": "Create sampling plan rule",
+            "pl": "Utw\u0102\u0142rz regu\u0139\u201a\u00c4\u2122 planu pobierania pr\u0102\u0142bek"
+        },
+        "updateRule": {
+            "en": "Update sampling plan rule",
+            "pl": "Zaktualizuj regu\u0139\u201a\u00c4\u2122 planu pobierania pr\u0102\u0142bek"
+        },
+        "deleteRule": {
+            "en": "Delete sampling plan rule",
+            "pl": "Usu\u0139\u201e regu\u0139\u201a\u00c4\u2122 planu pobierania pr\u0102\u0142bek"
+        },
+        "deactivateRule": {
+            "en": "Deactivate sampling plan rule",
+            "pl": "Wy\u0139\u201a\u00c4\u2026cz regu\u0139\u201a\u00c4\u2122 planu pobierania pr\u0102\u0142bek"
+        },
+        "activateRule": {
+            "en": "Activate sampling plan rule",
+            "pl": "W\u0139\u201a\u00c4\u2026cz regu\u0139\u201a\u00c4\u2122 planu pobierania pr\u0102\u0142bek"
+        },
+        "createElements": {
+            "en": "Create sampling plan elements",
+            "pl": "Utw\u0102\u0142rz elementy planu pobierania pr\u0102\u0142bek"
+        },
+        "createdSuccess": {
+            "en": "Successfully created rule",
+            "pl": "Z powodzeniem utworzono elementy planu pobierania pr\u0102\u0142bek"
+        },
+        "updatedSuccess": {
+            "en": "Successfully updated rule",
+            "pl": "Z powodzeniem zaktualizowano elementy planu pobierania pr\u0102\u0142bek"
+        },
+        "deletedSuccess": {
+            "en": "Successfully deleted rule",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to elementy planu pobierania pr\u0102\u0142bek"
+        },
+        "deactivatedSuccess": {
+            "en": "Successfully deactivated rule",
+            "pl": "Z powodzeniem wy\u0139\u201a\u00c4\u2026czono regu\u0139\u201a\u00c4\u2122"
+        },
+        "activatedSuccess": {
+            "en": "Successfully activated rule",
+            "pl": "Z powodzeniem w\u0139\u201a\u00c4\u2026czono regu\u0139\u201a\u00c4\u2122"
+        },
+        "startBeforeEnd": {
+            "en": "Start must be earlier than end",
+            "pl": "Pocz\u00c4\u2026tek musi by\u00c4\u2021 wcze\u0139\u203aniej ni\u0139\u013d koniec"
+        }
+    },
+    "test": {
+        "component": {
+            "en": "Component",
+            "pl": "Komponent"
+        },
+        "value": {
+            "en": "Value",
+            "pl": "Warto\u0139\u203a\u00c4\u2021"
+        },
+        "notCompliant": {
+            "en": "Not compliant",
+            "pl": "Niezgodny"
+        },
+        "expected": {
+            "en": "Expected:",
+            "pl": "Oczekiwany:"
+        },
+        "resultNote": {
+            "en": "Result note",
+            "pl": "Komentarz do wyniku"
+        },
+        "outOfRange": {
+            "en": "Out of range",
+            "pl": "Poza zakresem"
+        },
+        "lowerLimit": {
+            "en": "Lower limit",
+            "pl": "Dolna granica"
+        },
+        "upperLimit": {
+            "en": "Upper limit",
+            "pl": "G\u0102\u0142rna granica"
+        },
+        "result": {
+            "en": "Result",
+            "pl": "Wynik"
+        },
+        "noEquation": {
+            "en": "No equation",
+            "pl": "Brak r\u0102\u0142wnania"
+        },
+        "started": {
+            "en": "Test started: ",
+            "pl": "Test rozpocz\u00c4\u2122ty: "
+        },
+        "finished": {
+            "en": "Test finished: ",
+            "pl": "Test uko\u0139\u201eczony: "
+        },
+        "estimatedDuration": {
+            "en": "Estimated duration",
+            "pl": "Szacowany czas trwania: "
+        },
+        "actualDuration": {
+            "en": "Actual duration: ",
+            "pl": "Rzeczywisty czas trwania: "
+        },
+        "results": {
+            "en": "Results: ",
+            "pl": "Wyniki: "
+        },
+        "tooltipAssigned": {
+            "en": "The sample was not received by the lab yet",
+            "pl": "Pr\u0102\u0142bka nie zosta\u0139\u201aa jeszcze dostarczona do laboratorium"
+        },
+        "tooltipDelivered": {
+            "en": "The sample quality has not been assessed yet",
+            "pl": "Jako\u0139\u203a\u00c4\u2021 pr\u0102\u0142bki nie zosta\u0139\u201aa jeszcze oceniona"
+        },
+        "tooltipSave": {
+            "en": "You need to save the entered results first",
+            "pl": "Musisz najpierw zapisa\u00c4\u2021 wpisane wyniki"
+        },
+        "tooltipFillResults": {
+            "en": "The test results aren't fully entered yet",
+            "pl": "Wyniki testu nie zosta\u0139\u201ay jeszcze w pe\u0139\u201ani wpisane"
+        },
+        "start": {
+            "en": "start test",
+            "pl": "rozpocznij test"
+        },
+        "complete": {
+            "en": "complete test",
+            "pl": "zako\u0139\u201ecz test"
+        },
+        "confirm": {
+            "en": "confirm test",
+            "pl": "potwierd\u0139\u015f test"
+        },
+        "correct": {
+            "en": "correct results",
+            "pl": "popraw wyniki"
+        },
+        "ok": {
+            "en": "test ok",
+            "pl": "test ok"
+        },
+        "repeat": {
+            "en": "repeat test",
+            "pl": "Powt\u0102\u0142rz test"
+        },
+        "cancel": {
+            "en": "Cancel test",
+            "pl": "Odwo\u0139\u201aaj test"
+        },
+        "components": {
+            "en": "Analysis components",
+            "pl": "Komponenty analizy"
+        },
+        "removeTest": {
+            "en": "Remove test",
+            "pl": "Usu\u0139\u201e test"
+        },
+        "addTest": {
+            "en": "Add new test",
+            "pl": "Dodaj nowy test"
+        },
+        "getComponents": {
+            "en": "Get test components",
+            "pl": "Pobierz komponenty testu"
+        },
+        "updateResults": {
+            "en": "UpdateTestResults",
+            "pl": "Zaktualizuj wyniki testu"
+        },
+        "updateSuccessful": {
+            "en": "Succesfully updated test results",
+            "pl": "Wyniki testu zaktualizowane pomy\u0139\u203alnie"
+        },
+        "assigned": {
+            "en": "Assigned",
+            "pl": "Zlecony"
+        },
+        "inProgress": {
+            "en": "In progress",
+            "pl": "W trakcie"
+        },
+        "pendingConfirm": {
+            "en": "Pending confirmation",
+            "pl": "Oczekuje na zatwierdzenie"
+        },
+        "pendingApproval": {
+            "en": "Pending approval",
+            "pl": "Oczekuje na autoryzacj\u00c4\u2122"
+        },
+        "approved": {
+            "en": "Approved",
+            "pl": "Autoryzowany"
+        },
+        "reassigned": {
+            "en": "Reassigned",
+            "pl": "Do powt\u0102\u0142rzenia"
+        },
+        "cancelled": {
+            "en": "Cancelled",
+            "pl": "Odwo\u0139\u201aany"
+        },
+        "rejectedDixon": {
+            "en": "Rejected by Dixon test",
+            "pl": "Odrzucony przez test Dixona"
+        },
+        "get": {
+            "en": "Get tests",
+            "pl": "Pobierz testy dla tego laboratorium"
+        },
+        "changeStatus": {
+            "en": "Change test status",
+            "pl": "Zmie\u0139\u201e status testu"
+        },
+        "changeStatusSuccess": {
+            "en": "Status changed successfully",
+            "pl": "Z powodzeniem zmieniono status testu"
+        },
+        "requestRepeat": {
+            "en": "Request repeating test",
+            "pl": "Za\u0139\u013d\u00c4\u2026daj powt\u0102\u0142rzenia testu"
+        },
+        "reassignSuccess": {
+            "en": "Successfully reassigned test",
+            "pl": "Z powodzeniem zmieniono pracownika przypisanego do testu"
+        },
+        "requestRepeatSeries": {
+            "en": "Repeat entire series",
+            "pl": "Powt\u0102\u0142rz ca\u0139\u201a\u00c4\u2026 seri\u00c4\u2122"
+        },
+        "reassignSeriesSuccess": {
+            "en": "Successfully reassigned entire series",
+            "pl": "Z powodzeniem zmieniono pracownika przypisanego do ca\u0139\u201aej serii test\u0102\u0142w"
+        },
+        "resultsIncomplete": {
+            "en": "Warning: test results incomplete",
+            "pl": "Uwaga: test nie zosta\u0139\u201a zako\u0139\u201eczony"
+        },
+        "resultsIncompleteDescr": {
+            "en": "Not all components have their results entered yet. Are you sure you want to finish this test?",
+            "pl": "Nie we wszystkie komponenty zosta\u0139\u201ay wpisane wyniki. Czy na pewno chcesz zako\u0139\u201eczy\u00c4\u2021 ten test?"
+        }
+    },
+    "testMethods": {
+        "testMethods": {
+            "en": "Test methods",
+            "pl": "Metody testowe"
+        },
+        "testMethod": {
+            "en": "Test method",
+            "pl": "Metoda testowa"
+        },
+        "notValidated": {
+            "en": "Not validated",
+            "pl": "Niezwalidowana"
+        },
+        "lastValidated": {
+            "en": "Last validated",
+            "pl": "Ostatnio zwalidowano"
+        },
+        "accredited": {
+            "en": "Accredited",
+            "pl": "Akredytowana"
+        },
+        "validation": {
+            "en": "Method validation",
+            "pl": "Walidacja metody"
+        },
+        "details": {
+            "en": "Method details",
+            "pl": "Szczeg\u0102\u0142\u0139\u201ay metody testowej"
+        },
+        "addMethod": {
+            "en": "Add new test method",
+            "pl": "Dodaj now\u00c4\u2026 metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "addMethodShort": {
+            "en": "Add method",
+            "pl": "Dodaj metod\u00c4\u2122"
+        },
+        "duplicate": {
+            "en": "Duplicate",
+            "pl": "Zduplikuj"
+        },
+        "symbol": {
+            "en": "Symbol",
+            "pl": "Symbol"
+        },
+        "methodName": {
+            "en": "Method name",
+            "pl": "Nazwa metody"
+        },
+        "removeComponent": {
+            "en": "Remove component",
+            "pl": "Usu\u0139\u201e komponent"
+        },
+        "getComponents": {
+            "en": "Get test method components",
+            "pl": "Pobierz komponenty metody testowej"
+        },
+        "get": {
+            "en": "Get test methods",
+            "pl": "Pobierz metody testowe"
+        },
+        "update": {
+            "en": "Update test method",
+            "pl": "Zaktualizuj metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "create": {
+            "en": "Create test method",
+            "pl": "Utw\u0102\u0142rz metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "delete": {
+            "en": "Delete test method",
+            "pl": "Usu\u0139\u201e metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "createComponents": {
+            "en": "Create test method components",
+            "pl": "Utw\u0102\u0142rz komponenty metody testowej"
+        },
+        "updateComponents": {
+            "en": "Update test method components",
+            "pl": "Zaktualizuj komponenty metody testowej"
+        },
+        "createdSuccess": {
+            "en": "Successfully created test method",
+            "pl": "Z powodzeniem utworzono metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "updatedSuccess": {
+            "en": "Successfully updated test method",
+            "pl": "Z powodzeniem zaktualizowano metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "deletedSuccess": {
+            "en": "Successfully deleted test method",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to metod\u00c4\u2122 testow\u00c4\u2026"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this test method?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 t\u00c4\u2122 metod\u00c4\u2122 testow\u00c4\u2026?"
+        },
+        "confirmDeleteDescr": {
+            "en": "The test method will be permanently deleted. Existing tests using this method will remain in the system.",
+            "pl": "Ta metoda testowa zostanie trwale usuni\u00c4\u2122ta. Istniej\u00c4\u2026ce testy oparte na tej metodzie nie zostan\u00c4\u2026 usuni\u00c4\u2122te."
+        },
+        "confirmRemoveComponents": {
+            "en": "Are you sure you want to proceed?",
+            "pl": "Czy na pewno chcesz kontynuowa\u00c4\u2021?"
+        },
+        "componentsRemoved": {
+            "en": "You removed the following analysis components:",
+            "pl": "Usun\u00c4\u2026\u0139\u201ae\u0139\u203a (-a\u0139\u203a) nast\u00c4\u2122puj\u00c4\u2026ce komponenty analizy:"
+        },
+        "confirmRemoveComponentsDescr": {
+            "en": "If you continue, they will be permanently deleted. Existing tests will not be affected.",
+            "pl": "Je\u0139\u203ali kontynuujesz, te komponenty zostan\u00c4\u2026 trwale usuni\u00c4\u2122te. Nie b\u00c4\u2122dzie to mia\u0139\u201ao wp\u0139\u201aywu na Istniej\u00c4\u2026ce testy."
+        },
+        "incorrectTime": {
+            "en": "Incorrect time format",
+            "pl": "Nieprawid\u0139\u201aowy format czasu"
+        },
+        "durationHelp": {
+            "en": "e.g. 3d 12h",
+            "pl": "np. 3d 12h"
+        },
+        "enterComponent": {
+            "en": "Enter at least one component",
+            "pl": "Wprowad\u0139\u015f co najmniej jeden komponent"
+        },
+        "addComponent": {
+            "en": "Add new component",
+            "pl": "Dodaj komponent"
+        },
+        "addEquipment": {
+            "en": "Add equipment",
+            "pl": "Dodaj urz\u00c4\u2026dzenie"
+        },
+        "removeEquipment": {
+            "en": "Remove equipment",
+            "pl": "Usu\u0139\u201e urz\u00c4\u2026dzenie"
+        },
+        "estimatedWorkDuration": {
+            "en": "Estimated work duration",
+            "pl": "Szacowany czas pracy"
+        }
+    },
+    "validation": {
+        "rules": {
+            "en": "Validation rules",
+            "pl": "Regu\u0139\u201ay walidacji"
+        },
+        "rule": {
+            "en": "Validation rule",
+            "pl": "Regu\u0139\u201aa walidacji"
+        },
+        "runDixon": {
+            "en": "Run Dixon test",
+            "pl": "Przeprowad\u0139\u015f test Dixona"
+        },
+        "calcResults": {
+            "en": "Calculate validation results",
+            "pl": "Przelicz wyniki walidacji"
+        },
+        "created": {
+            "en": "Created",
+            "pl": "Utworzona"
+        },
+        "inProgress": {
+            "en": "In progress",
+            "pl": "W toku"
+        },
+        "pendingEval": {
+            "en": "Pending evaluation",
+            "pl": "Oczekuje na sprawdzenie"
+        },
+        "passed": {
+            "en": "Passed",
+            "pl": "Wynik pozytywny"
+        },
+        "failed": {
+            "en": "Failed",
+            "pl": "Wynik pozytywny"
+        },
+        "get": {
+            "en": "Get validations",
+            "pl": "Pobierz walidacje"
+        },
+        "start": {
+            "en": "Start validation",
+            "pl": "Rozpocznij walidacj\u00c4\u2122"
+        },
+        "acceptMsg": {
+            "en": "Accept validation",
+            "pl": "Zaakceptuj walidacj\u00c4\u2122"
+        },
+        "rejectMsg": {
+            "en": "reject validation",
+            "pl": "Odrzu\u00c4\u2021 walidacj\u00c4\u2122"
+        },
+        "createFields": {
+            "en": "Create fields for validation results",
+            "pl": "Utw\u0102\u0142rz pola dla wynik\u0102\u0142w walidacji"
+        },
+        "createTests": {
+            "en": "Create validation tests",
+            "pl": "Utw\u0102\u0142rz testy walidacyjne"
+        },
+        "updateRef": {
+            "en": "Update reference data",
+            "pl": "Zaktualizuj dane referencyjne"
+        },
+        "recalculate": {
+            "en": "Recalculate results",
+            "pl": "Przelicz wyniki ponownie"
+        },
+        "startedSuccess": {
+            "en": "Successfully started new validation",
+            "pl": "Z powodzeniem rozpocz\u00c4\u2122to now\u00c4\u2026 walidacj\u00c4\u2122"
+        },
+        "statusChangeSuccess": {
+            "en": "Successfully changed valiation status",
+            "pl": "Z powodzeniem zmieniono status walidacji"
+        },
+        "recalculatedSuccess": {
+            "en": "Validation results have been recalculated",
+            "pl": "Wyniki walidacji zosta\u0139\u201ay ponownie przeliczone"
+        },
+        "updateRefSuccess": {
+            "en": "Successfully modified reference data",
+            "pl": "Z powodzeniem zmodyfikowano dane referencyjne"
+        },
+        "createRule": {
+            "en": "Create validation rule",
+            "pl": "Utw\u0102\u0142rz regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "updateRule": {
+            "en": "Update validation rule",
+            "pl": "Zaktualizuj regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "deleteRule": {
+            "en": "Delete validation rule",
+            "pl": "Usu\u0139\u201e regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "createdRuleSuccess": {
+            "en": "Successfully created validation rule",
+            "pl": "Z powodzeniem utworzono regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "updatedRuleSuccess": {
+            "en": "Successfully updated validation rule",
+            "pl": "Z powodzeniem zaktualizowano regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "deletedRuleSuccess": {
+            "en": "Successfully deleted validation rule",
+            "pl": "Z powodzeniem usuni\u00c4\u2122to regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "parameters": {
+            "en": "Validation parameters",
+            "pl": "Parametry walidacji"
+        },
+        "newProcedure": {
+            "en": "New validation procedure for {{name}}",
+            "pl": "Nowa procedura walidacji dla {{name}}"
+        },
+        "series": {
+            "en": "Number of series",
+            "pl": "Liczba serii"
+        },
+        "retries": {
+            "en": "Number of retries per serie",
+            "pl": "Liczba powt\u0102\u0142rze\u0139\u201e w serii"
+        },
+        "ruleUsed": {
+            "en": "Validation rule used",
+            "pl": "Wykorzystana regu\u0139\u201aa walidacji"
+        },
+        "newRule": {
+            "en": "Add new validation rule",
+            "pl": "Dodaj now\u00c4\u2026 regu\u0139\u201a\u00c4\u2122 walidacji"
+        },
+        "newRuleShort": {
+            "en": "Add new rule",
+            "pl": "Dodaj now\u00c4\u2026 regu\u0139\u201a\u00c4\u2122"
+        },
+        "components": {
+            "en": "Validated components",
+            "pl": "Walidowane komponenty"
+        },
+        "history": {
+            "en": "{{name}}: validation history",
+            "pl": "{{name}}: historia walidacji"
+        },
+        "started": {
+            "en": "Started",
+            "pl": "Rozpocz\u00c4\u2122ta"
+        },
+        "startedBy": {
+            "en": "Started by",
+            "pl": "Rozpocz\u00c4\u2122ta przez"
+        },
+        "details": {
+            "en": "Validation details",
+            "pl": "Szczeg\u0102\u0142\u0139\u201ay walidacji"
+        },
+        "newValidation": {
+            "en": "Start new validation",
+            "pl": "Rozpocznij now\u00c4\u2026 walidacj\u00c4\u2122"
+        },
+        "confirmDelete": {
+            "en": "Are you sure you want to delete this rule?",
+            "pl": "Czy na pewno chcesz usun\u00c4\u2026\u00c4\u2021 t\u00c4\u2122 regu\u0139\u201a\u00c4\u2122??"
+        },
+        "confirmDeleteDescr": {
+            "en": "Existing validations created from this rule will not be deleted.",
+            "pl": "Istniej\u00c4\u2026ce walidacje utworzone na podstawie tej regu\u0139\u201ay nie zostan\u00c4\u2026 usuni\u00c4\u2122te."
+        },
+        "ruleName": {
+            "en": "Rule name",
+            "pl": "Nazwa regu\u0139\u201ay"
+        },
+        "validateUsing": {
+            "en": "Validate using:",
+            "pl": "Waliduj na podstawie:"
+        },
+        "repeatability": {
+            "en": "Repeatability",
+            "pl": "Powtarzalno\u0139\u203a\u00c4\u2021"
+        },
+        "lod": {
+            "en": "Limit of detection",
+            "pl": "Granica wykrywalno\u0139\u203aci"
+        },
+        "lodMean": {
+            "en": "Calculate from mean value",
+            "pl": "Oblicz w odniesieniu do \u0139\u203aredniej warto\u0139\u203aci"
+        },
+        "lodZero": {
+            "en": "Calculate from zero",
+            "pl": "Oblicz w odniesieniu do zera"
+        },
+        "recovery": {
+            "en": "Recovery",
+            "pl": "Odzysk"
+        },
+        "recoveryReference": {
+            "en": "Calculate using reference material",
+            "pl": "Oblicz u\u0139\u013dywaj\u00c4\u2026c warto\u0139\u203aci referencji odzysku"
+        },
+        "recoveryAddition": {
+            "en": "Calculate using analyte addition",
+            "pl": "Oblicz u\u0139\u013dywaj\u00c4\u2026c dodatku analitu"
+        },
+        "reproducibility": {
+            "en": "Reproducibility",
+            "pl": "Odtwarzalno\u0139\u203a\u00c4\u2021"
+        },
+        "loq": {
+            "en": "Limit of quantification",
+            "pl": "Granica oznaczalno\u0139\u203aci"
+        },
+        "accuracy": {
+            "en": "Accuracy",
+            "pl": "Dok\u0139\u201aadno\u0139\u203a\u00c4\u2021"
+        },
+        "accuracyIndirect": {
+            "en": "Analysis in conditions of repeatability and reproducibility",
+            "pl": "Badanie w warunkach powtarzalno\u0139\u203aci i odtwarzalno\u0139\u203aci"
+        },
+        "accuracyIndependent": {
+            "en": "Independent sample method",
+            "pl": "Metoda pr\u0102\u0142bki niezale\u0139\u013dnej"
+        },
+        "lodMeanBlankTable": {
+            "en": "Calc. from mean, blank samples",
+            "pl": "Obl. w odniesieniu do \u0139\u203aredniej, pr\u0102\u0142bki \u0139\u203alepe"
+        },
+        "lodZeroBlankTable": {
+            "en": "Calc. from zero, blank samples",
+            "pl": "Calc. w odniesieniu do zera, pr\u0102\u0142bki \u0139\u203alepe"
+        },
+        "lodMeanRealTable": {
+            "en": "Calc. from mean, real samples",
+            "pl": "Calc. w odniesieniu do \u0139\u203aredniej, pr\u0102\u0142bki rzeczywiste"
+        },
+        "lodZeroRealTable": {
+            "en": "Calc. from zero, real samples",
+            "pl": "Calc. w odniesieniu do zera, pr\u0102\u0142bki rzeczywiste"
+        },
+        "recoveryReferenceTable": {
+            "en": "Using reference value",
+            "pl": "U\u0139\u013dywaj\u00c4\u2026c warto\u0139\u203aci referencyjnej"
+        },
+        "recoveryAdditionTable": {
+            "en": "Using analyte addition",
+            "pl": "U\u0139\u013dywaj\u00c4\u2026c dodatku analitu"
+        },
+        "accuracyIndirectTable": {
+            "en": "In conditions of repeat. and reprod.",
+            "pl": "W warunkach powt. i odtw."
+        },
+        "editRule": {
+            "en": "Edit rule",
+            "pl": "Edytuj regu\u0139\u201a\u00c4\u2122"
+        },
+        "fullName": {
+            "en": "Full name",
+            "pl": "Pe\u0139\u201ana nazwa"
+        },
+        "referenceAndResults": {
+            "en": "Reference parameters & results",
+            "pl": "Wielko\u0139\u203aci odniesienia i wyniki"
+        },
+        "referenceData": {
+            "en": "Reference data",
+            "pl": "Dane referencyjne"
+        },
+        "refForRecovery": {
+            "en": "Reference value for Recovery",
+            "pl": "Warto\u0139\u203a\u00c4\u2021 referencyjna dla odzysku"
+        },
+        "addedForRecovery": {
+            "en": "Added analyte amount for Recovery",
+            "pl": "Ilo\u0139\u203a\u00c4\u2021 dodanego analitu dla odzysku"
+        },
+        "refForAccuracy": {
+            "en": "Reference value for Accuracy",
+            "pl": "Warto\u0139\u203a\u00c4\u2021 odniesienia dla dok\u0139\u201aadno\u0139\u203aci"
+        },
+        "refLodLoq": {
+            "en": "Reference concentration for LOD/LOQ evaluation",
+            "pl": "St\u00c4\u2122\u0139\u013denie referencyjne dla obliczenia granicy wykrywalno\u0139\u203aci/oznaczalno\u0139\u203aci"
+        },
+        "traceLevel": {
+            "en": "Trace level component (use wider acceptance ranges for Recovery and Variability coefficients)",
+            "pl": "Poziom sk\u0139\u201aadnik\u0102\u0142w \u0139\u203aladowych (u\u0139\u013dyj szerszego zakresu dopuszczalnego dla wsp\u0102\u0142\u0139\u201aczynnika zmienno\u0139\u203aci i odzysku)"
+        },
+        "results": {
+            "en": "Validation results",
+            "pl": "Wyniki walidacji"
+        },
+        "reject": {
+            "en": "Reject",
+            "pl": "Odrzu\u00c4\u2021"
+        },
+        "accept": {
+            "en": "Accept",
+            "pl": "Zaakceptuj"
+        },
+        "seeReport": {
+            "en": "See report",
+            "pl": "Otw\u0102\u0142rz raport"
+        },
+        "validating": {
+            "en": "Validating {{name}}",
+            "pl": "Walidacja {{name}}"
+        },
+        "currentStatus": {
+            "en": "Current validation status: ",
+            "pl": "Aktualny status walidacji: "
+        },
+        "dixonFailed": {
+            "en": "Dixon Test Failed",
+            "pl": "Test Dixona zako\u0139\u201eczony wynikiem negatywnym"
+        },
+        "dixonFailedIntroduction": {
+            "en": "The Dixon test identified severe mistakes in measurements of the following components:",
+            "pl": "W te\u0139\u203acie Dixona ujawnione zosta\u0139\u201ay powa\u0139\u013dne b\u0139\u201a\u00c4\u2122dy pomiaru w nast\u00c4\u2122puj\u00c4\u2026cych komponentach:"
+        },
+        "in": {
+            "en": "dla",
+            "pl": "dla"
+        },
+        "aboveLimit": {
+            "en": "Above the limit",
+            "pl": "Powy\u0139\u013dej warto\u0139\u203aci granicznej"
+        },
+        "tStat": {
+            "en": "T statistic",
+            "pl": "Warto\u0139\u203a\u00c4\u2021 statystyki T"
+        },
+        "tCritical": {
+            "en": "Student's t-critical value",
+            "pl": "Warto\u0139\u203a\u00c4\u2021 krytyczna rozk\u0139\u201aadu Studenta"
+        },
+        "lodLoq": {
+            "en": "Limit of detection, limit of quantification",
+            "pl": "Granica wykrywalno\u0139\u203aci, granica oznaczalno\u0139\u203aci"
+        },
+        "lodShort": {
+            "en": "LOD",
+            "pl": "Granica wykrywalno\u0139\u203aci"
+        },
+        "loqShort": {
+            "en": "LOQ",
+            "pl": "Granica oznaczalno\u0139\u203aci"
+        },
+        "lodAcceptance": {
+            "en": "LOD acceptance range",
+            "pl": "Zakres dopuszczalny granicy wykrywalno\u0139\u203aci"
+        },
+        "loqAcceptance": {
+            "en": "LOQ acceptance range",
+            "pl": "Zakres dopuszczalny granicy wykrywalno\u0139\u203aci"
+        },
+        "recoveryAcceptance": {
+            "en": "Recovery acceptance range",
+            "pl": "Zakres dopuszczalny odzysku"
+        },
+        "stddev": {
+            "en": "Standard deviation",
+            "pl": "Odchylenie standardowe"
+        },
+        "range": {
+            "en": "Range",
+            "pl": "Granica"
+        },
+        "variability": {
+            "en": "Variability coefficient",
+            "pl": "Wsp\u0102\u0142\u0139\u201aczynnik zmienno\u0139\u203aci"
+        },
+        "variabilityLimit": {
+            "en": "Variability coefficient limit",
+            "pl": "Dopuszczalny poziom wsp. zmienno\u0139\u203aci"
+        },
+        "notEnoughDegFreedom": {
+            "en": "Not enough degrees of freedom",
+            "pl": "Zbyt ma\u0139\u201ao stopni swobody"
+        },
+        "atLeastThreeRetries": {
+            "en": "At least 3 retries are required",
+            "pl": "Wymagane co najmniej 3 powt\u0102\u0142rzenia"
+        },
+        "lodLoqCalcType": {
+            "en": "LOD/LOQ calculation method",
+            "pl": "Metoda obliczania granicy wykrywalno\u0139\u203aci/powtarzalno\u0139\u203aci"
+        },
+        "lodLoqSample": {
+            "en": "Samples used for LOD/LOQ",
+            "pl": "Pr\u0102\u0142bki obliczania granicy wykrywalno\u0139\u203aci/powtarzalno\u0139\u203aci"
+        },
+        "lodBlank": {
+            "en": "Blank samples",
+            "pl": "Pr\u0102\u0142bki \u0139\u203alepe"
+        },
+        "lodReal": {
+            "en": "Real samples",
+            "pl": "Pr\u0102\u0142bki rzeczywiste"
+        },
+        "checkOne": {
+            "en": "Check at least one",
+            "pl": "Zaznacz co najmniej jeden"
+        }
+    }
+}
